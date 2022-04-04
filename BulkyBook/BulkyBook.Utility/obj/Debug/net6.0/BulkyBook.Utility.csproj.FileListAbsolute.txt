@@ -1,0 +1,17 @@
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\Training\DOTNETCOREMVC\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CopyComplete
